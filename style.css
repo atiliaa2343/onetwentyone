@@ -1,0 +1,101 @@
+#main { 
+    height: 100vh; 
+    width: 100%; 
+   
+}  
+
+
+body, html { 
+    height: 100%; 
+    background-color: #F4E98C;
+}  
+
+
+#img {  
+    height: 5px;
+    width: 5px;
+    display: inline-block; 
+    margin-left: 50px; 
+    margin-right: 50px; 
+
+} 
+
+
+
+/*Home Page*/
+
+ h1 { 
+    color:#663300; 
+    font-size: 150px;
+    text-align: center; 
+    margin-bottom: 20px; 
+   
+} 
+                  
+a {  
+    color: #663300; 
+    text-align: center; 
+    font-size: 100px; 
+    display: inline-block;  
+    padding-left: 400px; 
+    padding-right: 450px; 
+    padding-bottom: 500px;;
+    text-decoration: none; 
+ }
+ 
+/*About Page*/
+/*#about p {
+    font-size: 30px;
+    font-family: "Libre Franklin"; 
+    color: black;
+} 
+
+/*Submissions Page*/
+/*#submissions h1, h2, h3 { 
+    font-size: 20px; 
+    font-family: "Libre Franklin"; 
+    color: black;
+}
+
+.bullet { 
+    list-style-type: circle; 
+    font-size: 20px; 
+    font-family: "Libre Franklin"; 
+    color: black;
+} 
+
+.guidelines { 
+    list-style-type: none; 
+    font-size: 20px; 
+    font-family: "Libre Franklin"; 
+    color: black;
+} 
+
+/*Staff page */
+/*#staff h1, h2, h4 { 
+    font-size: 40px;  
+    font-weight: bold;
+    color: black;
+}
+
+/*2020 Page*/ 
+/*#first { 
+    height: 100vh; 
+    width: 100%; 
+    
+}   
+
+#first body {
+    background-image: url("C:/Users/15407/Downloads/OneTwentyOne/homepage/girlhome.png");
+}
+/*2022 Page*/ 
+/*#second { 
+    height: 100vh; 
+    width: 100%; 
+}   
+
+#second body { 
+    background-color: url("C:/Users/15407/Downloads/OneTwentyOne/homepage/yellowbookhome.png");
+}
+
+*/

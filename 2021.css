@@ -1,0 +1,41 @@
+#main { 
+    height: 100vh; 
+    width: 100%; 
+   
+    
+}  
+
+
+body, html { 
+    background-image: url("homepage/yellow.jpg"); 
+    background-size: cover; 
+    background-repeat: no-repeat; 
+    background-position: center;
+}  
+
+h1 { 
+    color: white; 
+    text-align: center; 
+    font-size: 300px; 
+    display: block; 
+    padding-bottom: 200px;
+} 
+
+h2 { 
+    color: white; 
+    text-align: center; 
+    font-size: 200px; 
+    display: block; 
+    padding-bottom: 200px;
+} 
+
+ a {  
+    color: white; 
+    text-align: center; 
+    font-size: 90px; 
+    text-decoration: none; 
+    display: inline-block;  
+    padding-left: 400px; 
+    padding-right: 450px;
+
+ }
